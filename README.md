@@ -37,7 +37,7 @@
   [https://apps.apple.com/kr/app/3%EB%85%84-%EC%9D%BC%EA%B8%B0%EC%9E%A5-3%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EC%9D%BC%EA%B8%B0%EC%9E%A5/id1500111945](https://apps.apple.com/kr/app/3%EB%85%84-%EC%9D%BC%EA%B8%B0%EC%9E%A5-3%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EC%9D%BC%EA%B8%B0%EC%9E%A5/id1500111945)
 
 #### 앱 이미지
-<img src="https://user-images.githubusercontent.com/61003485/88134860-b53e4c00-cc20-11ea-9ed7-d6ddf3702f69.png" width="187" height="333"<img src="https://user-images.githubusercontent.com/61003485/88134868-ba9b9680-cc20-11ea-9a3d-309260bb156c.png" width="187" height="333"> <img src="https://user-images.githubusercontent.com/61003485/88134876-be2f1d80-cc20-11ea-9230-8ad1ca460e8a.png" width="187" height="333"> <img src="https://user-images.githubusercontent.com/61003485/88134847-ac4d7a80-cc20-11ea-803c-17666888f937.png" width="187" height="333"> 
+<img src="https://user-images.githubusercontent.com/61003485/88134860-b53e4c00-cc20-11ea-9ed7-d6ddf3702f69.png" width="187" height="333"><img src="https://user-images.githubusercontent.com/61003485/88134868-ba9b9680-cc20-11ea-9a3d-309260bb156c.png" width="187" height="333"> <img src="https://user-images.githubusercontent.com/61003485/88134876-be2f1d80-cc20-11ea-9230-8ad1ca460e8a.png" width="187" height="333"> <img src="https://user-images.githubusercontent.com/61003485/88134847-ac4d7a80-cc20-11ea-803c-17666888f937.png" width="187" height="333"> 
   
  
  ---
@@ -45,46 +45,46 @@
 #### 개발자
    개인프로젝트, 단독 개발 (1인)
 #### 개발기간 
-   2018.8.15 ~
+   2020.02.01 ~
   
 #### 최초출시 
-   2018.10.2
+   2018.03.05
   
 #### 기능
-- 파일 이동, 생성, 복사, 이름 변경 
-- 텍스트 파일 페이징처리해서 콜렉션뷰로 보여줌
-- CoreData로 읽은 현 페이지 저장, 최신 도큐먼트 확인
-- 텍스트파일 임포트하기, 익스포트하기
-- 주 야간 모드
+- Realm Swift를 사용하여 전반적인 CRUD 사용.
+- 상단 CollectionView를 이용하여, 1,2,3년 전의 오늘의 일기를 확인 할 수 있음.
+- 하단 CollectionView를 이용하여 한달의 일기를 확인 할 수 있음.
+- 일기 작성 시 그 날의 감정을 저장 할 수 있음.
+- Calendar를 통해 History 확인 가능 (FsCalendar Library 사용)
+- Google Places를 사용하여 일기 쓴 위치 등록 가능. 
+- 등록 된 위치를 기반으로 지도에서 일기 쓴 장소 확인 가능
+- 검색 기능을 통해 키워드로 일기 내용 확인 가능.
 
 ---
 #### 개발 주요 특이사항
-  - SnapKit으로 UI 설계 (스토리보드 없음)
+  - 
     
 #### 개발 중 포스트
   
-- [텍본리더 개발 이슈 - 로딩바의 출력에 rxSwift를 도입](https://sesang06.tistory.com/45)
-- [iOS 텍스트가 비었으면 확인 버튼 비활성하는 UIAlertController 생성](https://sesang06.tistory.com/38)
-- [UITableView를 스냅킷으로 구현하면서 생겼던 이슈](https://sesang06.tistory.com/46)
-- [iOS 텍스트 뷰어 개발을 끝내고 검수를 넣으며](https://sesang06.tistory.com/44)
-
 ---
 
-### iOS-toyproject 
-- 콜렉션뷰로 복잡한 레이아웃을 구현하는 연습을 했어요
+### 롤체패스 
+- TFT 모바일 (롤토체스) 가이드 어플리케이션
+
+#### 앱스토어 링크
+  [https://apps.apple.com/kr/app/%EB%A1%A4%EC%B2%B4%ED%8C%A8%EC%8A%A4/id1521193473](https://apps.apple.com/kr/app/%EB%A1%A4%EC%B2%B4%ED%8C%A8%EC%8A%A4/id1521193473)
+
 
 
 <img src="https://github.com/sesang06/iOS-toyproject/blob/master/ReadMeImages/video0.gif?raw=true" width="187" height="333"/>
 
-#### Full Source
-- gitHub에 Full Source를 올려두었어요.
-- [https://github.com/sesang06/iOS-toyproject](https://github.com/sesang06/iOS-toyproject)
 
 #### 개발자
-   개인프로젝트, 단독 개발 (1인)
+   팀 프로젝트, iOS 전담 개발 (1인) 
+   총 팀원 : 5명 (안드로이드,iOS,Back-end,Web,디자이너)
 
 #### 개발기간
-   2018.6.6~
+   2020.04.15~
 
 #### 개발 주요 특이사항
   - SnapKit으로 UI 설계 (스토리보드 없음)
