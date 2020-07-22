@@ -28,10 +28,11 @@
 
 
 ## **3년 일기장** (앱스토어 출시)
- <img src="https://github.com/sesang06/RESUME/blob/master/textreader.png?raw=true" width="80" height="80"/>
+ <img src="![1024](https://user-images.githubusercontent.com/61003485/88134248-182ee380-cc1f-11ea-8128-a07913042b9a.png)
+" width="80" height="80"/>
  
 #### 앱스토어 링크
-  [https://itunes.apple.com/us/app/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A6%AC%EB%8D%94/id1437719953?l=ko&ls=1&mt=8](https://itunes.apple.com/us/app/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A6%AC%EB%8D%94/id1437719953?l=ko&ls=1&mt=8)
+  [https://apps.apple.com/kr/app/3%EB%85%84-%EC%9D%BC%EA%B8%B0%EC%9E%A5-3%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EC%9D%BC%EA%B8%B0%EC%9E%A5/id1500111945](https://apps.apple.com/kr/app/3%EB%85%84-%EC%9D%BC%EA%B8%B0%EC%9E%A5-3%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EC%9D%BC%EA%B8%B0%EC%9E%A5/id1500111945)
 
 #### 앱 이미지
   
