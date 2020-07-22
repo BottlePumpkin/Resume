@@ -28,7 +28,8 @@
 
 
 ## **3년 일기장** (앱스토어 출시)
-![40](https://user-images.githubusercontent.com/61003485/88134407-7d82d480-cc1f-11ea-8f04-3067848bd012.png)
+![80](https://user-images.githubusercontent.com/61003485/88134442-97241c00-cc1f-11ea-8358-d0d3985fa3f6.png)
+
 
 
  
