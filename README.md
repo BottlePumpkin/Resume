@@ -28,8 +28,8 @@
 
 
 ## **3년 일기장** (앱스토어 출시)
- <img src="![1024](https://user-images.githubusercontent.com/61003485/88134248-182ee380-cc1f-11ea-8128-a07913042b9a.png)
-" width="80" height="80"/>
+![1024](https://user-images.githubusercontent.com/61003485/88134248-182ee380-cc1f-11ea-8128-a07913042b9a.png)
+
  
 #### 앱스토어 링크
   [https://apps.apple.com/kr/app/3%EB%85%84-%EC%9D%BC%EA%B8%B0%EC%9E%A5-3%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EC%9D%BC%EA%B8%B0%EC%9E%A5/id1500111945](https://apps.apple.com/kr/app/3%EB%85%84-%EC%9D%BC%EA%B8%B0%EC%9E%A5-3%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EC%9D%BC%EA%B8%B0%EC%9E%A5/id1500111945)
