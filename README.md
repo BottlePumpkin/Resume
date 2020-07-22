@@ -69,6 +69,8 @@
 ---
 
 ### 롤체패스 
+<img src="https://user-images.githubusercontent.com/61003485/88137066-b4f47f80-cc25-11ea-8a4d-f4ca17e74ebb.png" width="80" height="80"/>
+
 - TFT 모바일 (롤토체스) 가이드 어플리케이션
 
 #### 앱스토어 링크
@@ -91,7 +93,12 @@
 
 #### 구현 레이아웃
 
-<img src="https://github.com/sesang06/iOS-toyproject/blob/master/ReadMeImages/image1.png?raw=true" width="187" height="333"/><img src="https://github.com/sesang06/iOS-toyproject/blob/master/ReadMeImages/image2.png?raw=true" width="187" height="333"/><img src="https://github.com/sesang06/iOS-toyproject/blob/master/ReadMeImages/image3.png?raw=true" width="187" height="333"/><img src="https://github.com/sesang06/iOS-toyproject/blob/master/ReadMeImages/image5.png?raw=true" width="187" height="333"/>
+
+
+#### 앱 이미지
+
+<img src="https://user-images.githubusercontent.com/61003485/88137136-d9e8f280-cc25-11ea-917a-07d77515fc38.png" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/88137154-e2d9c400-cc25-11ea-87f5-599ed57ad3c5.png" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/88137161-e705e180-cc25-11ea-8c4e-70e7e66b5ce3.png" width="187" height="333"/><img src="
+https://user-images.githubusercontent.com/61003485/88137166-eb31ff00-cc25-11ea-9d9e-549e93319cff.png" width="187" height="333"/>
 
 - 핀터레스트식 2열 레이아웃 
 - 글 양에 따라 높이 변경되는 레이아웃
