@@ -38,10 +38,10 @@
 
 #### 앱 이미지
   
-![Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-29 at 12 53 13](https://user-images.githubusercontent.com/61003485/88134860-b53e4c00-cc20-11ea-9ed7-d6ddf3702f69.png)
-![Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-29 at 12 54 22](https://user-images.githubusercontent.com/61003485/88134868-ba9b9680-cc20-11ea-9a3d-309260bb156c.png)
-![Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-04 at 09 18 28](https://user-images.githubusercontent.com/61003485/88134876-be2f1d80-cc20-11ea-9230-8ad1ca460e8a.png)
-![Simulator Screen Shot - iPhone 8 - 2020-03-04 at 09 34 19](https://user-images.githubusercontent.com/61003485/88134847-ac4d7a80-cc20-11ea-803c-17666888f937.png)
+![Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-29 at 12 53 13](https://user-images.githubusercontent.com/61003485/88134860-b53e4c00-cc20-11ea-9ed7-d6ddf3702f69.png){: width="187" height="333"}
+![Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-29 at 12 54 22](https://user-images.githubusercontent.com/61003485/88134868-ba9b9680-cc20-11ea-9a3d-309260bb156c.png){: width="187" height="333"}
+![Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-04 at 09 18 28](https://user-images.githubusercontent.com/61003485/88134876-be2f1d80-cc20-11ea-9230-8ad1ca460e8a.png){: width="187" height="333"}
+![Simulator Screen Shot - iPhone 8 - 2020-03-04 at 09 34 19](https://user-images.githubusercontent.com/61003485/88134847-ac4d7a80-cc20-11ea-803c-17666888f937.png){: width="187" height="333"}
  
  ---
 
