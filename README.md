@@ -37,6 +37,8 @@
   [https://apps.apple.com/kr/app/3%EB%85%84-%EC%9D%BC%EA%B8%B0%EC%9E%A5-3%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EC%9D%BC%EA%B8%B0%EC%9E%A5/id1500111945](https://apps.apple.com/kr/app/3%EB%85%84-%EC%9D%BC%EA%B8%B0%EC%9E%A5-3%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EC%9D%BC%EA%B8%B0%EC%9E%A5/id1500111945)
 
 #### 앱 이미지
+<img src="https://user-images.githubusercontent.com/61003485/88134860-b53e4c00-cc20-11ea-9ed7-d6ddf3702f69.png" width="300" height="300">  
+  
   
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-29 at 12 53 13](https://user-images.githubusercontent.com/61003485/88134860-b53e4c00-cc20-11ea-9ed7-d6ddf3702f69.png){: width="187" height="333"}
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-29 at 12 54 22](https://user-images.githubusercontent.com/61003485/88134868-ba9b9680-cc20-11ea-9a3d-309260bb156c.png){: width="187" height="333"}
