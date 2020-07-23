@@ -107,10 +107,10 @@
 - 팀 프로젝트 (Team Lier)에 참여하여, 다른 개발자와 **협엽**하여 앱 출시한 경험이 있습니다.
 
 
-#### 이런 라이브러리를 활용해 봤어요
+#### 이런 라이브러리를 활용해 봤습니다.
 - **KakaoLink, KakaoLogin, GoogleSignIn, NaverLogin, FacebookLogin,SnapKit,KingFisher,SdWebImage,Alamofire,SwiftyJson,GooglePlaces,GoogleMap,GoogleAutoComplete,FireBase Analystics,FireStore,RealTime DataBase,Admob,CloudMessaging**
 
-#### 이런 것을 공부하고 있어요
+#### 이런 것을 공부하고 있습니다.
 - **RxSwift**
 - **HealthKit**
 - **Flutter**
