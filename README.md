@@ -181,7 +181,7 @@
 
 
 #### 이런 라이브러리를 활용해 봤습니다.
-- **KakaoLink, KakaoLogin, GoogleSignIn, NaverLogin, FacebookLogin,SnapKit,KingFisher,SdWebImage,Alamofire,SwiftyJson,GooglePlaces,GoogleMap,GoogleAutoComplete,FireBase Analystics,FireStore,RealTime DataBase,Admob,CloudMessaging,ZoomSDK,BootPaySDK**
+- **KakaoLink, KakaoLogin, GoogleSignIn, NaverLogin, FacebookLogin,SnapKit,KingFisher,SdWebImage,Alamofire,SwiftyJson,GooglePlaces,GoogleMap,GoogleAutoComplete,FireBase Analystics,FireStore,RealTime DataBase,Admob,FacebookAudienceNetwork,kakoLink,kakoChennel,kakkoMessage,kakoAdfit,NaverMap,CloudMessaging,ZoomSDK,BootPaySDK,SignWithApple**
 
 #### 이런 것을 공부하고 있습니다.
 - **RxSwift**
