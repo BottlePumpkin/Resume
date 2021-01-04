@@ -74,6 +74,7 @@
 <img src="https://user-images.githubusercontent.com/61003485/88140970-aca04280-cc2d-11ea-9893-ca7ed117584e.gif" width="187" height="333"/>
 
 
+
 #### 개발자
    팀 프로젝트, iOS 전담 개발 (1인) 
    총 팀원 : 5명 (안드로이드,iOS,Back-end,Web,디자이너)
@@ -98,6 +99,76 @@
 
 ---
 
+### 우물 (앱 스토어 심사중)
+
+- 친환경 앱 서비스 어플리케이션
+
+#### 앱스토어 링크
+- 업데이트 예정 입니다.
+
+#### 개발자
+   팀 프로젝트, iOS 전담 개발 (1인) 
+   총 팀원 : 5명 (안드로이드,iOS,Back-end,기획자,디자이너)
+
+#### 개발기간
+   2020.09.10 ~ 현재 마무리 단계 중
+
+#### 개발 주요 특이사항
+  - Slack, Notion 에자일 보드 이용. 업무 프로세스에 습득.
+  - AWS SERVER DATA Import
+  - 다날 결제 모듈을 이용하여, 웹뷰 스키마에 따른 세부 구현
+  - Ouath 2.0을 이용하여 token economy에 따른 앱 구현
+  - qr코드 인식 구현
+  - SNS 로그인 구현 ( 구글 , 카카오, 네이버 , 애플)
+  
+
+#### 구현 레이아웃 
+
+
+#### 앱 이미지
+
+<img src="https://user-images.githubusercontent.com/61003485/103509633-eba61580-4ea6-11eb-8176-38897821cbc7.jpg" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/103509641-f06ac980-4ea6-11eb-8424-3c3d170f7c26.jpg" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/103509645-f2cd2380-4ea6-11eb-9aec-67dccccbe1a6.jpg" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/103509647-f3fe5080-4ea6-11eb-8dee-605680e36f11.jpg" width="187" height="333"/>
+<img src="https://user-images.githubusercontent.com/61003485/103509650-f52f7d80-4ea6-11eb-9006-96bdd16caf36.jpg" width="187" height="333"/>
+
+
+---
+
+
+
+### 신디 (앱 스토어 심사중)
+
+- 부부 상담 플랫 폼
+
+#### 앱스토어 링크
+- 업데이트 예정 입니다.
+
+#### 개발자
+   팀 프로젝트, iOS 전담 개발 (1인) 
+   총 팀원 : 5명 (안드로이드,iOS,Back-end,web,기획자,디자이너)
+
+#### 개발기간
+   2020.10.01 ~ 현재 마무리 단계 중
+
+#### 개발 주요 특이사항
+  - Slack, Notion 에자일 보드 이용. 업무 프로세스에 습득.
+  - AWS SERVER DATA Import
+  - 부트페이 결제 모듈을 이용하여, 결제 화면 구현
+  - Ouath 2.0을 이용하여 token economy에 따른 앱 구현
+  - 푸쉬 노티피케이션 딥링크 구현
+
+#### 구현 레이아웃 
+
+
+#### 앱 이미지
+
+<img src="https://user-images.githubusercontent.com/61003485/103510472-a97dd380-4ea8-11eb-95fe-6b83caefbe06.jpg" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/103510478-ad115a80-4ea8-11eb-9fbc-e7f4689a988b.jpg" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/103510483-aedb1e00-4ea8-11eb-9681-3573f5b23b92.jpg" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/103510484-af73b480-4ea8-11eb-97c4-393a0bd0657d.jpg" width="187" height="333"/>
+<img src="https://user-images.githubusercontent.com/61003485/103510486-b00c4b00-4ea8-11eb-8b11-00878be7d9bf.jpg" width="187" height="333"/>
+<img src="https://user-images.githubusercontent.com/61003485/103510487-b0a4e180-4ea8-11eb-87a1-f60750832e4e.jpg" width="187" height="333"/>
+<img src="https://user-images.githubusercontent.com/61003485/103510492-b1d60e80-4ea8-11eb-8d81-b7a2fc326f25.jpg" width="187" height="333"/>
+
+
+---
+
 ## 관심사
 
 이런 것들을 하고 있습니다.
@@ -105,6 +176,8 @@
 - **swift**로 개발하고 있습니다.
 - 개인 포트폴리오로 **Native App**을 출시한 경험이 있습니다.
 - 팀 프로젝트 (Team Lier)에 참여하여, 다른 개발자와 **협엽**하여 앱 출시한 경험이 있습니다.
+- 팀 프로젝트 (우물)에 참여하여, 다른 개발자와 **협엽**하여 앱 출시한 경험이 있습니다.
+- 스타트업 (신디스쿨)에 참여하여, 스타트업 내에 **스타트업**내의 프로세스를 경험하였습니다.
 
 
 #### 이런 라이브러리를 활용해 봤습니다.
@@ -114,3 +187,7 @@
 - **RxSwift**
 - **HealthKit**
 - **Flutter**
+- **React**
+- **Node.js**
+- **AWS Server환경 구축**
+- **SwiftUI**
