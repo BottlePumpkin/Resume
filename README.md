@@ -100,12 +100,12 @@
 
 ---
 
-### 우물 (앱 스토어 심사중)
+### 우물 
 
 - 친환경 앱 서비스 어플리케이션
 
 #### 앱스토어 링크
-- 업데이트 예정 입니다.
+- https://apps.apple.com/kr/app/%EC%9A%B0%EB%AC%BC-%EC%B9%9C%ED%99%98%EA%B2%BD-%EC%95%B1-%EC%84%9C%EB%B9%84%EC%8A%A4/id1543682739
 
 #### 개발자
    팀 프로젝트, iOS 전담 개발 (1인) 
@@ -187,6 +187,7 @@
 #### 이런 것을 공부하고 있습니다.
 - **RxSwift**
 - **HealthKit**
+- **ReactorKit**
 - **Flutter**
 - **React**
 - **Node.js**
