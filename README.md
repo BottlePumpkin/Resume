@@ -236,6 +236,17 @@
 #### 이런 라이브러리를 활용해 봤습니다.
 - **Rxswift,Then,ReactorKit,Moy,KakaoLink, KakaoLogin, GoogleSignIn, NaverLogin, FacebookLogin,SnapKit,KingFisher,SdWebImage,Alamofire,SwiftyJson,GooglePlaces,GoogleMap,GoogleAutoComplete,FireBase Analystics,FireStore,RealTime DataBase,Admob,FacebookAudienceNetwork,kakoLink,kakoChennel,kakkoMessage,kakoAdfit,NaverMap,CloudMessaging,ZoomSDK,BootPaySDK,SignWithApple**
 
+
+
+### Flutter
+- Flutter Study에 정기적으로 참여하여, 활동하고 있습니다 (주 1회)
+- Flutter로 출시 예정인 앱이 있습니다. 현재 개발 중
+
+
+
+#### 이런 라이브러리를 활용해 봤습니다.
+- **GetX,Provider,intl,http,dio,Firebase,Carousel Slider**
+
 #### 이런 것을 공부하고 있습니다.
 - **RxSwift**
 - **ReactorKit**
