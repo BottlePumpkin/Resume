@@ -63,6 +63,41 @@
 
 ---
 
+### 캐시카플러스
+
+- 자동차 옥외광고 앱 서비스 어플리케이션
+
+#### 앱스토어 링크
+- https://apps.apple.com/kr/app/%EC%BA%90%EC%8B%9C%EC%B9%B4-%ED%94%8C%EB%9F%AC%EC%8A%A4/id1565765131
+
+#### 개발자
+   팀 프로젝트, iOS 전담 개발 (1인) 
+   총 팀원 : 6명 (안드로이드,iOS,Back-end(2),web(admin),디자이너)
+
+#### 개발기간
+   2021.04.05 ~ 2021.07.10
+
+#### 개발 주요 특이사항
+  - Jandi, Notion 에자일 보드 이용. 업무 프로세스에 습득.
+  - Rxswift사용
+  - 이미지 첨부, 카메라 이용
+  - 컨텐츠 맞춤형 에디터
+  - 푸쉬 알림 (FCM)
+ 
+
+  
+
+#### 구현 레이아웃 
+
+
+#### 앱 이미지
+
+<img src="https://user-images.githubusercontent.com/61003485/125394317-7df21d80-e3e4-11eb-8a39-4ed919aa7834.png" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/125394330-821e3b00-e3e4-11eb-99ef-2cdb4f3f2751.png" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/125394334-821e3b00-e3e4-11eb-9eec-b19ec2d2d6a2.png" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/125394336-82b6d180-e3e4-11eb-952c-1dd2dbd07436.png" width="187" height="333"/>
+
+
+---
+
+
 ### 롤체패스 (앱 스토어 출시)
 <img src="https://user-images.githubusercontent.com/61003485/88137066-b4f47f80-cc25-11ea-8a4d-f4ca17e74ebb.png" width="80" height="80"/>
 
@@ -187,6 +222,10 @@
    - Rxswift , ReactorKit 사용
 
 #### 구현 레이아웃 
+
+
+
+
 
 
 ---
