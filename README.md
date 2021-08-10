@@ -75,16 +75,6 @@
 #### 개발기간
    2020.04.15~
 
-#### 개발 주요 특이사항
-  - Slack, Confluence,Jira 에자일 보드 이용. 업무 프로세스에 습득.
-  - AWS SERVER DATA Import
-  - FireBase FireStore 이용하여, 채팅 구현
-  - Riot Games Developer API 사용하여, 순위 및 전적,검색 페이지 구현
-  - 첫번째 View 처리과정에서 Server Data 업로드하여 Realm 내부 DB에 저장하며 App실행시 Version Check로 통해 업데이트하고 있음.
-
-#### 구현 레이아웃 
-- collectionView select시 글자 수에 따라 늘어나는 Height조절
-
 #### 앱 이미지
 
 <img src="https://user-images.githubusercontent.com/61003485/88137136-d9e8f280-cc25-11ea-917a-07d77515fc38.png" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/88137154-e2d9c400-cc25-11ea-87f5-599ed57ad3c5.png" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/88137161-e705e180-cc25-11ea-8c4e-70e7e66b5ce3.png" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/88137166-eb31ff00-cc25-11ea-9d9e-549e93319cff.png" width="187" height="333"/>
@@ -102,22 +92,7 @@
 #### 개발자
    팀 프로젝트, iOS 전담 개발 (1인) 
    총 팀원 : 5명 (안드로이드,iOS,Back-end,기획자,디자이너)
-
-#### 개발기간
-   2020.09.10 ~ 
-
-#### 개발 주요 특이사항
-  - Slack, Notion 에자일 보드 이용. 업무 프로세스에 습득.
-  - AWS SERVER DATA Import
-  - 다날 결제 모듈을 이용하여, 웹뷰 스키마에 따른 세부 구현
-  - Ouath 2.0을 이용하여 token economy에 따른 앱 구현
-  - qr코드 인식 구현
-  - SNS 로그인 구현 ( 구글 , 카카오, 네이버 , 애플)
-  
-
-#### 구현 레이아웃 
-
-
+   
 #### 앱 이미지
 
 <img src="https://user-images.githubusercontent.com/61003485/103509633-eba61580-4ea6-11eb-8176-38897821cbc7.jpg" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/103509641-f06ac980-4ea6-11eb-8424-3c3d170f7c26.jpg" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/103509645-f2cd2380-4ea6-11eb-9aec-67dccccbe1a6.jpg" width="187" height="333"/><img src="https://user-images.githubusercontent.com/61003485/103509647-f3fe5080-4ea6-11eb-8dee-605680e36f11.jpg" width="187" height="333"/>
@@ -142,12 +117,6 @@
 #### 개발기간
    2020.10.01 ~ 2020.01.15
 
-#### 개발 주요 특이사항
-  - Slack, Notion 에자일 보드 이용. 업무 프로세스에 습득.
-  - AWS SERVER DATA Import
-  - 부트페이 결제 모듈을 이용하여, 결제 화면 구현
-  - Ouath 2.0을 이용하여 token economy에 따른 앱 구현
-  - 푸쉬 노티피케이션 딥링크 구현
 
 #### 구현 레이아웃 
 
