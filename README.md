@@ -55,7 +55,7 @@
 ---
 
 
-### 롤체패스 (앱 스토어 출시)
+### 롤체패스
 <img src="https://user-images.githubusercontent.com/61003485/88137066-b4f47f80-cc25-11ea-8a4d-f4ca17e74ebb.png" width="80" height="80"/>
 
 - TFT 모바일 (롤토체스) 가이드 어플리케이션
@@ -104,7 +104,7 @@
 
 
 
-### 신디 (앱 스토어 업로드 , 현재 개발 정지)
+### 신디 
 
 - 부부 상담 플랫 폼
 
@@ -130,7 +130,7 @@
 <img src="https://user-images.githubusercontent.com/61003485/103510492-b1d60e80-4ea8-11eb-8d81-b7a2fc326f25.jpg" width="187" height="333"/>
 
 
-### 아워스톡 (진행 중)
+### 아워스톡 
 
 - 유튜브 지분 거래 플랫폼
 
