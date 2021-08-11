@@ -39,11 +39,6 @@
 #### 개발기간
    2021.04.05 ~ 2021.07.10
 
-#### 개발 주요 특이사항
-  - Rxswift사용
-  - 이미지 첨부, 카메라 이용
-  - 컨텐츠 맞춤형 에디터
-  - 푸쉬 알림 (FCM)
  
 
 #### 앱 이미지
@@ -182,7 +177,7 @@
 
 
 #### 이런 라이브러리를 활용해 봤습니다.
-- **Rxswift,Then,ReactorKit,Moy,KakaoLink, KakaoLogin, GoogleSignIn, NaverLogin, FacebookLogin,SnapKit,KingFisher,SdWebImage,Alamofire,SwiftyJson,GooglePlaces,GoogleMap,GoogleAutoComplete,FireBase Analystics,FireStore,RealTime DataBase,Admob,FacebookAudienceNetwork,kakoLink,kakoChennel,kakkoMessage,kakoAdfit,NaverMap,CloudMessaging,ZoomSDK,BootPaySDK,SignWithApple**
+- **Rxswift,Then,ReactorKit,Moya,KakaoLink, KakaoLogin, GoogleSignIn, NaverLogin, FacebookLogin,SnapKit,KingFisher,SdWebImage,Alamofire,SwiftyJson,GooglePlaces,GoogleMap,GoogleAutoComplete,FireBase Analystics,FireStore,RealTime DataBase,Admob,FacebookAudienceNetwork,kakoLink,kakoChennel,kakkoMessage,kakoAdfit,NaverMap,CloudMessaging,ZoomSDK,BootPaySDK,SignWithApple**
 
 
 
