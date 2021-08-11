@@ -6,7 +6,6 @@
 
 - 이메일 : p4569zz@gmail.com
 - 깃허브: [https://github.com/DustinPark92](https://github.com/DustinPark92)
-- 티스토리 : https://dustinpark92.tistory.com/
 ---
 
 ## 약력
